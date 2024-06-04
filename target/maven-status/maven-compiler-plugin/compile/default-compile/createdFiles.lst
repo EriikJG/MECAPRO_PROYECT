@@ -1,0 +1,8 @@
+logica\Automovil.class
+servlets\SvEncontrarPlaca.class
+servlets\SvAutomovil.class
+logica\Reparacion.class
+servlets\SvServicio.class
+persistencia\AutomovilJpaController.class
+logica\Controladora.class
+persistencia\ServicioJpaController.class

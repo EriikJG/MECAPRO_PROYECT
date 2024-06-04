@@ -72,7 +72,7 @@
 <body>
 <div class="container">
     <h1>Agrega un Servicio</h1>
-    <form class="user" action="SvReparacion" method="POST">
+    <form class="user" action="SvServicio" method="POST">
         <input type="text" class="form-control form-control-user" id="descripcion" name="descripcion" placeholder="Descripción" required>
         <input type="text" class="form-control form-control-user" id="costo" name="costo" placeholder="Costo" required>
         <select name="tipo" class="form-control form-control-user">
