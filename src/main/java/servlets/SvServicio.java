@@ -37,9 +37,8 @@ public class SvServicio extends HttpServlet {
         HttpSession misession = request.getSession();
         misession.setAttribute("listaReparaciones", listaReparaciones);
 
-        System.out.println("Usuario: " + listaReparaciones.get(0));
 
-        response.sendRedirect("inicio.jsp");
+        response.sendRedirect("VerServicio.jsp");
 
     }
 
