@@ -3,11 +3,11 @@ package persistencia;
 import logica.Automovil;
 import logica.Reparacion;
 
-import javax.persistence.EntityManager;
-import javax.persistence.EntityManagerFactory;
-import javax.persistence.Persistence;
-import javax.persistence.Query;
-import javax.persistence.criteria.CriteriaQuery;
+import jakarta.persistence.EntityManager;
+import jakarta.persistence.EntityManagerFactory;
+import jakarta.persistence.Persistence;
+import jakarta.persistence.Query;
+import jakarta.persistence.criteria.CriteriaQuery;
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
