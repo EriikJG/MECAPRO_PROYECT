@@ -1,8 +1,8 @@
 persistencia\InsumoJpaController.class
+servlets\SvInsumo.class
 servlets\SvEncontrarPlaca.class
 logica\Reparacion.class
 logica\Controladora.class
-servlets\SvRegistrarInsumo.class
 logica\Automovil.class
 servlets\SvAutomovil.class
 logica\Inventario.class
