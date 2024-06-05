@@ -4,10 +4,10 @@ servlets\SvEncontrarPlaca.class
 logica\Reparacion.class
 logica\Controladora.class
 logica\Automovil.class
+persistencia\InventarioJpaController.class
 servlets\SvAutomovil.class
 logica\Inventario.class
 servlets\SvServicio.class
 persistencia\AutomovilJpaController.class
 logica\Insumo.class
-persistencia\InventarioJPAController.class
 persistencia\ServicioJpaController.class

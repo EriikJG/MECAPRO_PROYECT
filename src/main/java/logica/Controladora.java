@@ -3,7 +3,7 @@ package logica;
 import java.util.regex.Pattern;
 import persistencia.AutomovilJpaController;
 import persistencia.InsumoJpaController;
-import persistencia.InventarioJPAController;
+import persistencia.InventarioJpaController;
 import persistencia.ServicioJpaController;
 
 import java.util.ArrayList;
@@ -12,8 +12,8 @@ import java.util.List;
     public class Controladora {
         AutomovilJpaController controlAutomovil = new AutomovilJpaController();
 
-        ServicioJpaController controlReparacion = new ServicioJpaController();
-        InventarioJPAController controlInventario = new InventarioJPAController();
+        ServicioJpaController controlServicio = new ServicioJpaController();
+        InventarioJpaController controlInventario = new InventarioJpaController();
 
         InsumoJpaController controlInsumo = new InsumoJpaController();
 
@@ -56,7 +56,7 @@ import java.util.List;
         }
 
         public List<Reparacion> getReparaciones() {
-            return controlReparacion.findReparacionEntities();
+            return controlServicio.findReparacionEntities();
         }
 
         public void crearReparacion(String descripcion, String costo, String tipoReparacion, Automovil automovil) {
@@ -69,7 +69,7 @@ import java.util.List;
             reparacion.setTipo(tipoReparacion);
             reparacion.setAutomovil(automovil);
 
-            controlReparacion.create(reparacion);
+            controlServicio.create(reparacion);
             aniadirReparacion(automovil, reparacion);
         }
 
