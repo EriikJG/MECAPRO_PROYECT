@@ -163,4 +163,3 @@ public class ControladoraTest {
         verify(mockInsumoJpaController, times(1)).findInsumoEntities();
     }
 }
-
