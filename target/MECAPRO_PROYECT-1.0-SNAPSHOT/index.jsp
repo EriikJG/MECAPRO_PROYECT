@@ -49,8 +49,8 @@
 <h1>MECAPRO</h1>
 <div class="container">
   <a href="buscarPlaca.jsp">Agregar Servicio</a>
-  <a href="VerServicios.jsp">Ver Servicios</a>
-  <a href="buscarPlaca.jsp">Agregar Insumo al inventario</a>
+  <a href="SvServicio">Ver Servicios</a>
+  <a href="AgregarInsumos.jsp">Agregar Insumo al inventario</a>
   <a href="VerInsumos.jsp">Ver Insumos</a>
 </div>
 </body>

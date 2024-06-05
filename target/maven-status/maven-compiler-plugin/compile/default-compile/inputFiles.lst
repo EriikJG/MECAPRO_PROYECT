@@ -1,8 +1,13 @@
 C:\Users\USER\Documents\Agiles\MECAPRO_PROYECT\src\main\java\servlets\SvEncontrarPlaca.java
-C:\Users\USER\Documents\Agiles\MECAPRO_PROYECT\src\main\java\persistencia\ServicioJpaController.java
-C:\Users\USER\Documents\Agiles\MECAPRO_PROYECT\src\main\java\persistencia\AutomovilJpaController.java
+C:\Users\USER\Documents\Agiles\MECAPRO_PROYECT\src\main\java\persistencia\InventarioJPAController.java
+C:\Users\USER\Documents\Agiles\MECAPRO_PROYECT\src\main\java\logica\Inventario.java
 C:\Users\USER\Documents\Agiles\MECAPRO_PROYECT\src\main\java\logica\Reparacion.java
 C:\Users\USER\Documents\Agiles\MECAPRO_PROYECT\src\main\java\servlets\SvServicio.java
+C:\Users\USER\Documents\Agiles\MECAPRO_PROYECT\src\main\java\persistencia\ServicioJpaController.java
+C:\Users\USER\Documents\Agiles\MECAPRO_PROYECT\src\main\java\persistencia\InsumoJpaController.java
+C:\Users\USER\Documents\Agiles\MECAPRO_PROYECT\src\main\java\logica\Insumo.java
+C:\Users\USER\Documents\Agiles\MECAPRO_PROYECT\src\main\java\persistencia\AutomovilJpaController.java
+C:\Users\USER\Documents\Agiles\MECAPRO_PROYECT\src\main\java\servlets\SvRegistrarInsumo.java
 C:\Users\USER\Documents\Agiles\MECAPRO_PROYECT\src\main\java\logica\Automovil.java
 C:\Users\USER\Documents\Agiles\MECAPRO_PROYECT\src\main\java\logica\Controladora.java
 C:\Users\USER\Documents\Agiles\MECAPRO_PROYECT\src\main\java\servlets\SvAutomovil.java

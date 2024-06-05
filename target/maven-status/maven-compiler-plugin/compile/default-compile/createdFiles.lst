@@ -1,8 +1,13 @@
-logica\Automovil.class
+persistencia\InsumoJpaController.class
 servlets\SvEncontrarPlaca.class
-servlets\SvAutomovil.class
 logica\Reparacion.class
+logica\Controladora.class
+servlets\SvRegistrarInsumo.class
+logica\Automovil.class
+servlets\SvAutomovil.class
+logica\Inventario.class
 servlets\SvServicio.class
 persistencia\AutomovilJpaController.class
-logica\Controladora.class
+logica\Insumo.class
+persistencia\InventarioJPAController.class
 persistencia\ServicioJpaController.class
