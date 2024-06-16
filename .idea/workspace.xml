@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="MECAPRO_PROYECT:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9f1191aa-c77c-449c-989a-9fc817483825" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logica/Automovil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/Automovil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logica/Insumo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/Insumo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logica/Inventario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/Inventario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logica/Reparacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/Reparacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/persistencia/AutomovilJpaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/persistencia/AutomovilJpaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/persistencia/InsumoJpaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/persistencia/InsumoJpaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/persistencia/InventarioJpaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/persistencia/InventarioJpaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/persistencia/ServicioJpaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/persistencia/ServicioJpaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlets/SvInsumo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlets/SvInsumo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logica/Automovil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/logica/Automovil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logica/Insumo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/logica/Insumo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logica/Inventario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/logica/Inventario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logica/Reparacion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/logica/Reparacion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/persistencia/AutomovilJpaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/persistencia/AutomovilJpaController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/persistencia/InsumoJpaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/persistencia/InsumoJpaController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/persistencia/InventarioJPAController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/persistencia/InventarioJPAController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/persistencia/ServicioJpaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/persistencia/ServicioJpaController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/servlets/SvInsumo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/servlets/SvInsumo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2hS8enLDsQTGXw7c5PzUC447Qey" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.ControladoraTest.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.MECAPRO_PROYECT [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.MECAPRO_PROYECT [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.MECAPRO_PROYECT [test].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Tomcat Server.Tomcat 10.1.23.executor&quot;: &quot;Run&quot;,
+    &quot;Tomcat Server.Tomcat 9.0.88.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/Documents/GitHub/MECAPRO_PROYECT&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.88">
+    <configuration name="ControladoraTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MECAPRO_PROYECT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="logica.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="logica" />
+      <option name="MAIN_CLASS_NAME" value="logica.ControladoraTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.88" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.88" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="MECAPRO_PROYECT:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/MECAPRO_PROYECT_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="ccef55a4-a608-460d-b019-b10895f75c32" />
+        <option name="HTTP_PORT" value="8081" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52842" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="MECAPRO_PROYECT:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ControladoraTest" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.88" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ControladoraTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f1191aa-c77c-449c-989a-9fc817483825" name="Changes" comment="" />
+      <created>1717576218392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717576218392</updated>
+      <workItem from="1717576222792" duration="5444000" />
+      <workItem from="1717639161206" duration="17000" />
+      <workItem from="1718510734508" duration="447000" />
+      <workItem from="1718513138698" duration="16000" />
+      <workItem from="1718513176488" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
