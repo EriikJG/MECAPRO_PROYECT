@@ -3,7 +3,6 @@ package servlets;
 import logica.Controladora;
 import logica.Insumo;
 import logica.Inventario;
-import logica.Reparacion;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
